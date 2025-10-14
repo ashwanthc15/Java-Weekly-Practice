@@ -11,19 +11,6 @@ Each week covers fundamental to intermediate Java concepts — from data types t
 
 ## 📁 Folder Structure
 
-JavaPractice/
-├── week1/
-│ ├── firstprogram.java
-│ └── datatype.java
-├── week2/
-│ ├── ...
-│ └── ...
-├── week3/
-│ ├── ...
-│ └── ...
-└── README.md
-
-
 Each folder represents one week’s set of practice programs.
 
 ---
